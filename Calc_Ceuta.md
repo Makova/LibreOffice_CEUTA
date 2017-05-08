@@ -22,7 +22,7 @@ Si coloca el puntero del ratón sobre cualquiera de los iconos se muestra un rec
 
 > Ayuda > ¿Qué es esto? 
 
-![](/LibreOffice_CEUTA/img/Calc_Ceuta.png) 
+![](/img/Calc_Ceuta.png) 
 
 y pase el puntero del ratón por encima del icono. Las ayudas emergentes (cortas) y las ayudas activas (información ampliada) pueden activarse y desactivarse en
 
@@ -36,7 +36,7 @@ Haga clic sobre el botón con un triángulo invertido, a la derecha del cuadro, 
 
 A la izquierda de la Barra de fórmulas (ver figura 3) hay una pequeño cuadro de texto llamado cuadro de nombre que contiene un combinación de letras y números, por ejemplo **D7**. Esta combinación se llama referencia de de celda, y se corresponde con la letra de columna y el número de fila de la celda actual.
 
-![](/LibreOffice_CEUTA/img/Calc_Ceuta1.png) 
+![](/img/Calc_Ceuta1.png) 
 
 A la derecha del cuadro de nombre están los botones `Asistente: Funciones`, `Suma` y `Función`.
 
@@ -62,15 +62,15 @@ Estos títulos pueden ocultarse seleccionando `Ver > Títulos de filas/columnas`
 
 La Barra de estado se encuentra en el extremo inferior de la ventana de Calc y proporciona información rápida sobre la hoja de cálculo actual.
 
-![](/LibreOffice_CEUTA/img/Calc_Ceuta2.png) 
+![](/img/Calc_Ceuta2.png) 
 
 ### Estilo de página
 
-![](/LibreOffice_CEUTA/img/Calc_Ceuta3.png) 
+![](/img/Calc_Ceuta3.png) 
 
 ### Selección
 
-![](/LibreOffice_CEUTA/img/Calc_Ceuta4.png)  
+![](/img/Calc_Ceuta4.png)  
 
 
 # Imprimir detalles
