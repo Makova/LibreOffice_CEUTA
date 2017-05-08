@@ -16,7 +16,7 @@ Bajo la Barra de títulos está la Barra de menús. Si selecciona uno de los men
 
 ## Barra de herramientas
 
-Debajo de la Barra de menús hay tres barras de herramientas predeterminadas: la barra de herramientas Estándar, la barra de herramientas Formato y la Barra de fórmulas.
+Debajo de la Barra de menús hay tres barras de herramientas predeterminadas: la barra de herramientas Estándar, la barra de herramientas Formato y la Barra de Fórmulas.
 Los iconos de estas barras proporcionan una amplia gama de comandos y funciones habituales.
 Si coloca el puntero del ratón sobre cualquiera de los iconos se muestra un recuadro llamado Ayudas emergentes (Tooltip) que proporciona una breve explicación de la función del icono. Para ampliar la información, seleccione 
 
@@ -34,7 +34,7 @@ Haga clic sobre el botón con un triángulo invertido, a la derecha del cuadro, 
 
 ## Barra de fórmulas
 
-A la izquierda de la Barra de fórmulas (ver figura 3) hay una pequeño cuadro de texto llamado cuadro de nombre que contiene un combinación de letras y números, por ejemplo **D7**. Esta combinación se llama referencia de de celda, y se corresponde con la letra de columna y el número de fila de la celda actual.
+A la izquierda de la Barra de fórmulas (ver figura 3) hay una pequeño cuadro de texto llamado cuadro de nombre que contiene un combinación de letras y números, por ejemplo **D7**. Esta combinación se llama referencia de celda, y se corresponde con la letra de columna y el número de fila de la celda actual.
 
 ![](/img/Calc_Ceuta1.png) 
 
