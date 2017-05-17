@@ -93,5 +93,5 @@ resultados
 Para definir un nuevo rango de impresión o modificar un rango existente:
 
 1. Seleccione el rango de celdas que compone el rango de impresión.
-2. Seleccione Formato > Imprimir rangos > Definir.
+2. Seleccione Formato `> Imprimir rangos > Definir`.
 
